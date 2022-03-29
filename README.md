@@ -1,4 +1,4 @@
-                #Task
+  # Task
 ## Build a Blog Module  with following data  
 ###  Title   =  [required , string]        :v:
 ###  Content =  [required,length >50 ch]   :v:
@@ -7,4 +7,6 @@
 
 
 
-                #Note
+  # Note
+    getClientOriginExtension();
+    move(public_path(#placeOftheImage),NameofImage);
